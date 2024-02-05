@@ -2,7 +2,7 @@
 - 👀 I’m interested in computational fluid dynamics (CFD), molecular simulations, and automation using python or shellscript(bash).
 - 🌱 I’m currently learning GO, in one sence it is a programming language, in the other sence it is a Japanese traditional game.
 - 💞️ I’m looking for collaboration with a variety of exciting coding opportunities.
-- 📫 How to reach me : please send me email.
+- 📫 How to reach me : please send an email to kazuhisa.miyazawa[at]hexagon.com.
 - 😄 Pronouns: he/his/him
 - ⚡ Fun fact: I wanna design wings for human to soar like a bird, using CAE technology (including CFD).
 
